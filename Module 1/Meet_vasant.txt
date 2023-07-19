@@ -1,0 +1,137 @@
+
+Module–1
+
+1.What is SDLC?
+SDLC is Software Development Life Cycle.
+cost-effective and time-efficient process that development teams use to design and build high-quality software. The goal of SDLC is to minimize project risks through forward planning so that software meets customer expectations during production and beyond.
+2.What is software testing?
+Software Testing is a process used to identify the correctness, completeness, and quality of developed computer software.
+
+3.What is Agile ?
+The Agile methodology is a project management approach that involves breaking the project into phases and emphasizes continuous collaboration and improvement. Teams follow a cycle of planning, executing, and evaluating.
+Pros:
+Higher profits.
+Timely delivery.
+Continuous improvement.
+Easy to manage.
+Face To Face Communication with Clients.
+Cons:
+Less Documentation.
+Maintenance Problems.
+
+4.What is srs?
+
+In the context of manual testing, SRS stands for "Software Requirements Specification." It is a document that outlines the detailed requirements and specifications of a software application or system. The SRS document typically includes information about the functionality, features, and behavior of the software, as well as any constraints or dependencies. It serves as a reference for testers to understand what needs to be tested and how the software should behave. Testers use the SRS document to design test cases, execute tests, and verify that the software meets the specified requirements.
+
+5.what is oop?
+Object-oriented programming.
+
+6-What are the basic concepts of OOP?
+A1-CLASS.
+2-OBJECTS.
+3-POLYMORPHISM.
+Overriding.
+Overloading.
+4-ENCAPSULATION.
+5-INHERITANCE.
+6-ABSTRACTION.
+
+7-What is Object ?
+Object: Any entity which has own state and behaviour
+ex: pen,paper etc..
+ 
+8-What is Class ?
+Class: Collection of objects
+ex: Human bod
+
+9-what is encapsulation?
+
+Encapsulation:Wrapping up of data or binding of data
+ex:Capsul
+
+10-What is inheritance?
+
+Inheritance:When One Object acquire all the properties and behaviour of parent class
+ex:parent - chil
+
+11-What is polymorphism?
+
+Polymorphism:Many ways to performa anything
+ex:Overloading,Overridin
+
+12-
+13-
+
+
+
+
+
+
+14-Write SDLC phases with basic introduction
+
+he Software Development Life Cycle (SDLC) is a structured process that enables the production of high-quality, low-cost software, in the shortest possible production time.
+
+
+SDLC Phases 
+ 1.Requirements Collection/Gathering:
+ Establish Customer Needs.
+ 2.Analysis:
+ Model And Specify the requirements.
+ 3.Design:
+ Model And Specify a Solution.
+4.Implementation:
+Construct a Solution In Software.
+5.Testing:
+Validate the solution against the requirements.
+6.Maintenance:
+Repair defects and adapt the solution to the new requirements.
+
+15-Explain Phases of the waterfall model
+
+Winston Royce introduced the Waterfall Model in 1970.This model has five phases:
+
+1.Requirement Analysis.
+2.Design.
+3.Implementation.
+4.Testing.
+5.Maintenance.
+
+16.Write phases of spiral model.
+
+The spiral model has four phases: Planning, risk analysis, product development and next phase planning or Evaluation. A software project repeatedly passes through these phases in iterations (called Spirals in this model).
+
+17-Explain working methodology of agile model and also write pros and Cons
+
+Agile methodology is a project management strategy that divides the project into multiple phases, encouraging continuous improvement for each phase.
+
+Pros:
+Timely delivery.
+Higher profits.
+Continuous improvement.
+
+Cons:
+Lack of documentation.
+Transfer difficulties.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
