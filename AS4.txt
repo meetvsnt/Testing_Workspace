@@ -1,0 +1,75 @@
+1 Which components have you used in Load Runner?
+    The load runner components are virtual user generator, controller, analysis.
+
+2 How can you set the number of Vusers in Load Runner?
+  I can set the number of Vusers in the controller section while creating my scenarios.
+
+3 What is Correlation?
+    Correlation is used to handle the dynamic values in a script. The dynamic value could change for each user action or for different 
+          users.
+    Correlation means two variables move in relation to one another.
+
+4 What is the process for developing a Vuser Script?
+     1. Open file option click on new script
+     2. Click on popular option
+     3. Select WebHttpHtml1option
+     4. Enter location details
+     5. Enter solution name
+     6. Click on create button
+
+5 How Load Runner interacts with the application?
+         LoadRunner simulates user activity by generating messages between application components or by simulating interactions with the   
+          user interface such askey presses or mouse movements. 
+
+6 How many VUsers are required for load testing?
+  Load test up to 1000 VUsers are required for load testing.
+
+7 What is the relationship between Response Time and Throughput?
+    The response time for an average transaction tends to decrease as you increase overall throughput. decrease the response time for a 
+          specific query, at the expense of overall throughput, by allocating a disproportionate amount of resources to that query.
+
+ 8 Hits per sec is the number of calls to the Webserver per second. and Request per sec is the number of request made to the webserver 
+          per second. Point to be notice here is "one Request may have many hits.
+
+SELENIUEM IDE :-
+
+9 What is Automation Testing ?
+     Test automation is the use of software to control the execution of tests, the comparison of actual outcomes to predicted outcomes, 
+          the setting up of test preconditions, and other test control and test reporting functions.
+    tests to verify the functionality, performance, security and usability of a website can easily be automated.
+
+10 Which are the Browsers Supported by Selenium Ide ?
+     Selenium Remote Control (RC), Web Driver, Selenium Grid and Selenium IDE may be used with Firefox. 
+     Selenium ide supported by all available browsers including Internet Explorer, Mozilla Firefox, Google Chrome, Safari.
+
+11 What are the benefits of Automation Testing?
+     -> 70% faster than the manual testing
+     -> Saves Time and Cost
+     -> Early time to market
+     -> Re-usable test scripts
+     -> Better speed in executing tests
+     -> Increases Efficiency
+     -> Reliable in results
+     -> Ensure Consistency 
+     -> Improves accuracy
+
+12 What are the advantages of Selenium?
+     -> Selenium is an open-source automation testing tool
+     -> it is free of cost to use
+     -> Highly extensible
+     -> Supports mobile devices
+     -> Supports various operating systems
+     -> Selenium Can execute tests in parallel
+     -> Selenium Can run tests across different browsers
+
+
+
+
+
+
+
+
+
+
+
+  
